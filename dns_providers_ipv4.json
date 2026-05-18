@@ -1,0 +1,61 @@
+[
+  {"Name": "Cloudflare", "Address": "1.1.1.1"},
+  {"Name": "Cloudflare Alt", "Address": "1.0.0.1"},
+  {"Name": "Cloudflare Security", "Address": "1.1.1.2"},
+  {"Name": "Cloudflare Security Alt", "Address": "1.0.0.2"},
+  {"Name": "Cloudflare Family", "Address": "1.1.1.3"},
+  {"Name": "Cloudflare Family Alt", "Address": "1.0.0.3"},
+  
+  {"Name": "ControlD Unfiltered", "Address": "76.76.2.0"},
+  {"Name": "ControlD Unfiltered Alt", "Address": "76.76.10.0"},
+  {"Name": "ControlD Malware", "Address": "76.76.2.1"},
+  {"Name": "ControlD Malware Alt", "Address": "76.76.10.1"},
+  {"Name": "ControlD Ads & Tracking", "Address": "76.76.2.2"},
+  {"Name": "ControlD Ads & Tracking Alt", "Address": "76.76.10.2"},
+  {"Name": "ControlD Social", "Address": "76.76.2.3"},
+  {"Name": "ControlD Social Alt", "Address": "76.76.10.3"},
+  {"Name": "ControlD Family Friendly", "Address": "76.76.2.4"},
+  {"Name": "ControlD Family Friendly Alt", "Address": "76.76.10.4"},
+  {"Name": "ControlD Uncensored", "Address": "76.76.2.5"},
+  {"Name": "ControlD Uncensored Alt", "Address": "76.76.10.5"},
+  
+  {"Name": "Cisco Umbrella", "Address": "208.67.222.222"},
+  {"Name": "Cisco Umbrella Alt", "Address": "208.67.220.220"},
+  
+  {"Name": "Neustar", "Address": "64.6.64.6"},
+  {"Name": "Neustar Alt", "Address": "64.6.65.6"},
+  
+  {"Name": "Google", "Address": "8.8.8.8"},
+  {"Name": "Google Alt", "Address": "8.8.4.4"},
+  
+  {"Name": "Quad9", "Address": "9.9.9.9"},
+  {"Name": "Quad9 Alt", "Address": "149.112.112.112"},
+  
+  {"Name": "CleanBrowsing Family", "Address": "185.228.168.168"},
+  {"Name": "CleanBrowsing Family Alt", "Address": "185.228.169.168"},
+  {"Name": "CleanBrowsing Adult", "Address": "185.228.168.10"},
+  {"Name": "CleanBrowsing Adult Alt", "Address": "185.228.169.11"},
+  {"Name": "CleanBrowsing Security", "Address": "185.228.168.9"},
+  {"Name": "CleanBrowsing Security Alt", "Address": "185.228.169.9"},
+  
+  {"Name": "NuSEC", "Address": "8.26.56.26"},
+  {"Name": "NuSEC Alt", "Address": "8.20.247.20"},
+  
+  {"Name": "DNSWatch", "Address": "84.200.69.80"},
+  {"Name": "DNSWatch Alt", "Address": "84.200.70.40"},
+  
+  {"Name": "OpenNIC", "Address": "206.125.173.29"},
+  {"Name": "OpenNIC Alt", "Address": "45.32.230.225"},
+  
+  {"Name": "UncensoredDNS", "Address": "91.239.100.100"},
+  {"Name": "UncensoredDNS Alt", "Address": "89.233.43.71"},
+  
+  {"Name": "SafeDNS", "Address": "195.46.39.39"},
+  {"Name": "SafeDNS Alt", "Address": "195.46.39.40"},
+  
+  {"Name": "Alternate DNS", "Address": "76.76.19.19"},
+  {"Name": "Alternate DNS Alt", "Address": "76.223.122.150"},
+  
+  {"Name": "Yandex", "Address": "77.88.8.8"},
+  {"Name": "Yandex Alt", "Address": "77.88.8.1"}
+]
